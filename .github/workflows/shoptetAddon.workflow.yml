@@ -8,6 +8,5 @@ jobs:
     with:
       host: 'ftp.myshoptet.com'
       user: 'test_363432'
-      remote-folder: /addonTest
     secrets:
       ftp_password: ${{ secrets.ftp_password }}
