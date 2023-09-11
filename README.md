@@ -1,3 +1,3 @@
 # addon-repository-test
 
-Test
+test
